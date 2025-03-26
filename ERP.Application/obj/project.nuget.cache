@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TIn1/+rGDVw=",
+  "dgSpecHash": "panG2fAR8/g=",
   "success": true,
   "projectFilePath": "D:\\Projects\\Efficient-ERPEx\\ERP.Application\\ERP.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ydul0af9nSw=",
+  "dgSpecHash": "ILWlfV9En4E=",
   "success": true,
   "projectFilePath": "D:\\Projects\\Efficient-ERPEx\\ERP.Presentation\\ERP.Presentation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
   "logs": []
 }
