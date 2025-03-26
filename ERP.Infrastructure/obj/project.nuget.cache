@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4h91m7bPE6Q=",
+  "dgSpecHash": "lN0yo2CoxLc=",
   "success": true,
   "projectFilePath": "D:\\Projects\\Efficient-ERPEx\\ERP.Infrastructure\\ERP.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -87,7 +87,8 @@
     "C:\\Users\\Igor\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Igor\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
   ],
   "logs": []
 }
